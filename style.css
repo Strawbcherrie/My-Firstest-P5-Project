@@ -1,0 +1,9 @@
+body{
+    background-color: pink;
+    border-bottom-color: purple;
+    border-top-color:deeppink;
+    border-right-color: crimson;
+    border-left-color: yellowgreen;
+    border-width: 20px;
+    border-style: solid;
+}
